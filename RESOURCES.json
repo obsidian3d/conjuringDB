@@ -1,0 +1,669 @@
+"RESOURCES":[
+ {
+   "ID": 0001,
+   "Date Purchased": "2012-10",
+   "Title": "Anytime Anywhere",
+   "Type": "DVD",
+   "Publisher": "Sankey Magic",
+   "Author": "Jay Sankey",
+   "Content Type": "Assorted",
+   "Number of Effects": 34
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Arcane Gaff Techniques",
+   "Type": "DVD & Gaff",
+   "Publisher": "Ellusionist",
+   "Author": "Gregory Wilson",
+   "Content Type": "Card Gaff",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Big Blind Media DVD",
+   "Type": "DVD",
+   "Publisher": "Personal Collection",
+   "Author": "Various",
+   "Content Type": "Assorted",
+   "Number of Effects": 6
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Burned",
+   "Type": "Booklet",
+   "Publisher": "",
+   "Author": "",
+   "Content Type": "Assorted",
+   "Number of Effects": 5
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Chad Long Magic Disc 1",
+   "Type": "DVD",
+   "Publisher": "Chad Long Magic",
+   "Author": "Chad Long",
+   "Content Type": "Assorted",
+   "Number of Effects": 10
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Counterfeit Hollingworth",
+   "Type": "DVD",
+   "Publisher": "WHMagic",
+   "Author": "Wayne Houchin",
+   "Content Type": "Card",
+   "Number of Effects": 1
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Crash Course 1",
+   "Type": "DVD",
+   "Publisher": "Ellusionist",
+   "Author": "Brad Christian",
+   "Content Type": "Card",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Crash Course 2: Ambitious Card",
+   "Type": "DVD",
+   "Publisher": "Ellusionist",
+   "Author": "Brad Christian",
+   "Content Type": "Card",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "David Blaine Discovery (Stripper) Deck",
+   "Type": "Gaff Deck",
+   "Publisher": "Bicycle",
+   "Author": "Joshua Jay",
+   "Content Type": "Card Gaff",
+   "Number of Effects": 5
+ },
+ {
+   "Date Purchased": "",
+   "Title": "How To Do Street Magic",
+   "Type": "DVD",
+   "Publisher": "Ellusionist",
+   "Author": "Brad Christian",
+   "Content Type": "Assorted",
+   "Number of Effects": 12
+ },
+ {
+   "Date Purchased": "",
+   "Title": "IBM Magic Kit DVD",
+   "Type": "DVD",
+   "Publisher": "",
+   "Author": "Various",
+   "Content Type": "Assorted",
+   "Number of Effects": 300
+ },
+ {
+   "Date Purchased": "",
+   "Title": "IBM Magic Kit Manual",
+   "Type": "Book",
+   "Publisher": "",
+   "Author": "Various",
+   "Content Type": "Assorted",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Inside Magic",
+   "Type": "DVD",
+   "Publisher": "Ellusionist",
+   "Author": "Brad Christian",
+   "Content Type": "Assorted",
+   "Number of Effects": 8
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Jay Sankey's Best Street Magic",
+   "Type": "DVD",
+   "Publisher": "Sankey Magic",
+   "Author": "Jay Sankey",
+   "Content Type": "Assorted",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Jay Sankey's Secret Files",
+   "Type": "DVD",
+   "Publisher": "Sankey Magic",
+   "Author": "Jay Sankey",
+   "Content Type": "Assorted",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Kaleidoscope",
+   "Type": "DVD",
+   "Publisher": "Sankey Magic",
+   "Author": "Jay Sankey",
+   "Content Type": "Assorted",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Kard Klub",
+   "Type": "DVD",
+   "Publisher": "Ellusionist",
+   "Author": "Brad Christian",
+   "Content Type": "Card",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "King's Rising",
+   "Type": "DVD",
+   "Publisher": "Ellusionist",
+   "Author": "Brad Christian",
+   "Content Type": "Illusion",
+   "Number of Effects": 1
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Loops Volume 1",
+   "Type": "DVD",
+   "Publisher": "Mesika Magic",
+   "Author": "Finn Jon",
+   "Content Type": "IET",
+   "Number of Effects": 3
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Loops Volume 2",
+   "Type": "DVD",
+   "Publisher": "Mesika Magic",
+   "Author": "Yigal Mesika",
+   "Content Type": "IET",
+   "Number of Effects": 5
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Master Mindfreaks Vol. 1",
+   "Type": "DVD",
+   "Publisher": "Angel Productions",
+   "Author": "Criss Angel",
+   "Content Type": "Assorted",
+   "Number of Effects": 10
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Master Mindfreaks Vol. 5",
+   "Type": "Book",
+   "Publisher": "Angel Productions",
+   "Author": "Criss Angel",
+   "Content Type": "Assorted",
+   "Number of Effects": 500
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Mindfreak Ultimate Kit Props DVD",
+   "Type": "DVD",
+   "Publisher": "Angel Productions",
+   "Author": "Criss Angel",
+   "Content Type": "Assorted",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Mindfreak Ultimate Kit Manual",
+   "Type": "DVD",
+   "Publisher": "Angel Productions",
+   "Author": "Criss Angel",
+   "Content Type": "Assorted",
+   "Number of Effects": 10
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Mysterio's Encyclopedia of Magic and Conjuring",
+   "Type": "Book",
+   "Publisher": "",
+   "Author": "Gabe Fajuri",
+   "Content Type": "Assorted",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Ninja 1: Stealth",
+   "Type": "DVD",
+   "Publisher": "Ellusionist",
+   "Author": "Brad Christian",
+   "Content Type": "Card",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Ninja 2: Weapons",
+   "Type": "DVD",
+   "Publisher": "Ellusionist",
+   "Author": "Brad Christian",
+   "Content Type": "Card",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Revolution",
+   "Type": "DVD",
+   "Publisher": "Ellusionist",
+   "Author": "Brad Christian",
+   "Content Type": "Coin",
+   "Number of Effects": 1
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Shapeshifter",
+   "Type": "DVD",
+   "Publisher": "Ellusionist",
+   "Author": "Brad Christian",
+   "Content Type": "Card",
+   "Number of Effects": 3
+ },
+ {
+   "Date Purchased": "",
+   "Title": "The Greatest Beginner Magic DVD Ever",
+   "Type": "DVD",
+   "Publisher": "Penguin Magic",
+   "Author": "Oz Pearlman",
+   "Content Type": "Assorted",
+   "Number of Effects": 12
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Up! Levitation",
+   "Type": "DVD & Gaff",
+   "Publisher": "",
+   "Author": "",
+   "Content Type": "Card Gaff",
+   "Number of Effects": 3
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Tricks From The Wax Museum",
+   "Type": "Booklet",
+   "Publisher": "",
+   "Author": "",
+   "Content Type": "",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "David Blaine Transformation (Svengali) Deck",
+   "Type": "Trick Deck",
+   "Publisher": "",
+   "Author": "",
+   "Content Type": "",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "David Blaine Mind Reading (Marked) Deck",
+   "Type": "Trick Deck",
+   "Publisher": "",
+   "Author": "",
+   "Content Type": "",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Thread",
+   "Type": "DVD",
+   "Publisher": "Ellusionist",
+   "Author": "Wayne Houchin",
+   "Content Type": "Geek",
+   "Number of Effects": 3
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Indecent",
+   "Type": "DVD",
+   "Publisher": "Ellusionist",
+   "Author": "Wayne Houchin",
+   "Content Type": "Card",
+   "Number of Effects": 1
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Stigmata",
+   "Type": "DVD",
+   "Publisher": "Ellusionist",
+   "Author": "Wayne Houchin",
+   "Content Type": "Assorted",
+   "Number of Effects": 3
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Houdini's Last Card Trick",
+   "Type": "DVD & Props",
+   "Publisher": "WHMagic",
+   "Author": "Wayne Houchin",
+   "Content Type": "Card",
+   "Number of Effects": 1
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Grand Illusions Thread Reel & DVD",
+   "Type": "DVD & Gimmick",
+   "Publisher": "Grand Illusions",
+   "Author": "",
+   "Content Type": "Assorted",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Sinful",
+   "Type": "DVD & Book",
+   "Publisher": "WHMagic",
+   "Author": "Wayne Houchin",
+   "Content Type": "Coin",
+   "Number of Effects": 1
+ },
+ {
+   "Date Purchased": "",
+   "Title": "UltraGaff vol 1",
+   "Type": "DVD",
+   "Publisher": "Ellusionist",
+   "Author": "Daniel Garcia, Wayne Houchin",
+   "Content Type": "Card Gaff",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "UltraGaff vol 2",
+   "Type": "DVD",
+   "Publisher": "Ellusionist",
+   "Author": "Daniel Garcia, Wayne Houchin",
+   "Content Type": "Card Gaff",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "UltraGaff vol 3",
+   "Type": "DVD",
+   "Publisher": "Ellusionist",
+   "Author": "Daniel Garcia, Wayne Houchin",
+   "Content Type": "Card Gaff",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Limited",
+   "Type": "Lecture Notes",
+   "Publisher": "",
+   "Author": "Daniel Garcia",
+   "Content Type": "Assorted",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "How to Make Money Performing Street Magic",
+   "Type": "Lecture Notes",
+   "Publisher": "",
+   "Author": "Chris Capeheart",
+   "Content Type": "Theory, Assorted Effects",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Gueriila Guide to Loops Vol. 1",
+   "Type": "DVD",
+   "Publisher": "Ellusionist",
+   "Author": "Nathan Kranzo",
+   "Content Type": "",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Gueriila Guide to Loops Vol. 2",
+   "Type": "DVD",
+   "Publisher": "Ellusionist",
+   "Author": "Daniel Garcia",
+   "Content Type": "",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Guerilla Guide to Loops Vol. 3",
+   "Type": "DVD",
+   "Publisher": "Ellusionist",
+   "Author": "",
+   "Content Type": "",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Daniel Garcia Project Vol. 1",
+   "Type": "DVD",
+   "Publisher": "AOI",
+   "Author": "Daniel Garcia",
+   "Content Type": "",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Daniel Garcia Project Vol. 2",
+   "Type": "DVD",
+   "Publisher": "AOI",
+   "Author": "Daniel Garcia",
+   "Content Type": "",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Daniel Garcia Project Vol. 3",
+   "Type": "DVD",
+   "Publisher": "AOI",
+   "Author": "Daniel Garcia",
+   "Content Type": "",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Daniel Garcia Project Vol. 4",
+   "Type": "DVD",
+   "Publisher": "AOI",
+   "Author": "Daniel Garcia",
+   "Content Type": "",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Daniel Garcia Project Vol. 5",
+   "Type": "DVD",
+   "Publisher": "AOI",
+   "Author": "Daniel Garcia",
+   "Content Type": "",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Daniel Garcia Project Vol. 6",
+   "Type": "DVD",
+   "Publisher": "AOI",
+   "Author": "Daniel Garcia",
+   "Content Type": "",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Pressure",
+   "Type": "DVD",
+   "Publisher": "Penuin Magic",
+   "Author": "Daniel Garcia",
+   "Content Type": "",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Metal",
+   "Type": "DVD",
+   "Publisher": "Ellusionist",
+   "Author": "Eric Ross",
+   "Content Type": "",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Superman Coin Bend",
+   "Type": "Gimmick",
+   "Publisher": "Roy Kuepper",
+   "Author": "",
+   "Content Type": "",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Hovercard",
+   "Type": "DVD & Gimmick",
+   "Publisher": "Ellusionist",
+   "Author": "Brad Christian",
+   "Content Type": "",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Gregory Wilson In Action Vol. 1",
+   "Type": "DVD",
+   "Publisher": "L&L Publishing",
+   "Author": "Gregory Wilson",
+   "Content Type": "",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Gregory Wilson In Action Vol. 2",
+   "Type": "DVD",
+   "Publisher": "L&L Publishing",
+   "Author": "Gregory Wilson",
+   "Content Type": "",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Gregory Wilson in Action Vol. 3",
+   "Type": "DVD",
+   "Publisher": "L&L Publishing",
+   "Author": "Gregory Wilson",
+   "Content Type": "",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Gregory Wilson's Pip Streak",
+   "Type": "DVD",
+   "Publisher": "Penguin Magic",
+   "Author": "Gregory Wilson",
+   "Content Type": "",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Go Pro With Tom Krysztof Vol. 1",
+   "Type": "Download",
+   "Publisher": "Penguin Magic",
+   "Author": "Tom Krysztof",
+   "Content Type": "",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Go Pro With Tom Krysztof Vol. 2",
+   "Type": "Download",
+   "Publisher": "Penguin Magic",
+   "Author": "Tom Krysztof",
+   "Content Type": "",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Sponge",
+   "Type": "DVD",
+   "Publisher": "Penguin Magic",
+   "Author": "Jay Noblezada",
+   "Content Type": "",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Infinity V2",
+   "Type": "Download & Prop",
+   "Publisher": "",
+   "Author": "",
+   "Content Type": "",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "D-Lites",
+   "Type": "Prop",
+   "Publisher": "",
+   "Author": "",
+   "Content Type": "",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Mindbender",
+   "Type": "DVD",
+   "Publisher": "Ellusionist",
+   "Author": "",
+   "Content Type": "",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Teach By Magic",
+   "Type": "Book",
+   "Publisher": "Creative Magic",
+   "Author": "",
+   "Content Type": "",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Master Mindfreaks: Coin in Soda Can",
+   "Type": "DVD",
+   "Publisher": "",
+   "Author": "",
+   "Content Type": "Coin",
+   "Number of Effects": 1
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Master Mindfreaks: Levitation",
+   "Type": "DVD",
+   "Publisher": "",
+   "Author": "",
+   "Content Type": "Levitation",
+   "Number of Effects": 1
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Tarbell Complete Course in Magic (vols 1-8)",
+   "Type": "Book",
+   "Publisher": "",
+   "Author": "",
+   "Content Type": "",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Art of Magic",
+   "Type": "DVD",
+   "Publisher": "Wayne Houchin",
+   "Author": "",
+   "Content Type": "",
+   "Number of Effects": null
+ },
+ {
+   "Date Purchased": "",
+   "Title": "Control 2.0",
+   "Type": "DVD",
+   "Publisher": "Wayne Houchin",
+   "Author": "",
+   "Content Type": "",
+   "Number of Effects": null
+ }
+]
